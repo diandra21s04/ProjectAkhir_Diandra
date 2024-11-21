@@ -11,11 +11,13 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
+
 import com.example.projectakhir_diandra.ListMasyarakatActivity;
 import com.example.projectakhir_diandra.R;
-import com.example.projectakhir_diandra.UpdateActivity;
 import com.example.projectakhir_diandra.db.DbHelper;
 import com.example.projectakhir_diandra.model.Masyarakat;
+import com.example.projectakhir_diandra.model.UpdateActivity;
+
 import java.io.Serializable;
 import java.util.ArrayList;
 import androidx.annotation.NonNull;

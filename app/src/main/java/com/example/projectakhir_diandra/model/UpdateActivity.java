@@ -1,4 +1,4 @@
-package com.example.projectakhir_diandra;
+package com.example.projectakhir_diandra.model;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.projectakhir_diandra.R;
 import com.example.projectakhir_diandra.db.DbHelper;
 import com.example.projectakhir_diandra.model.Masyarakat;
 
